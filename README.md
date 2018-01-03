@@ -1,5 +1,5 @@
-Study and implement Data Mart by ETL process with this we are able to investigate the Sales for 
-the customer and the product and find relationship between the product and customer and can make decision on the sales amount.
+Designed and Developed Data Mart by ETL process. Investigate the Sales for 
+the customer and the product and discovered relationship between the product and customer which helps business managers to make decision on the sales amount.
 Our Scope does not restrict to only analyze Sales but also includes functionality to 
 summarize customer and product data by using Aggregated Fact Table and other functions like Slowly Changing Dimension.
 
